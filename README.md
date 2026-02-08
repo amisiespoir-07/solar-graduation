@@ -2,6 +2,12 @@
 
 A Solana-based decentralized voting application for NBA All-Star player selection using blockchain technology and Solana Actions/Blinks.
 
+## 📸 App Preview
+
+![NBA All-Star Voting dApp](web/public/app-screenshot.png)
+
+*The NBA All-Star voting interface featuring player cards, wallet integration, and real-time vote tracking*
+
 ## 🏀 Project Overview
 
 This dApp allows users to vote for their favorite NBA All-Star players in a decentralized manner. Built with Next.js, TypeScript, Tailwind CSS, and powered by Solana blockchain for transparent and immutable voting records.
@@ -15,6 +21,20 @@ This dApp allows users to vote for their favorite NBA All-Star players in a dece
 - **🔗 Solana Actions** - Blockchain-based voting via Blinks
 - **📱 Responsive Design** - Works on desktop, tablet, and mobile
 - **🎨 Modern UI** - Beautiful gradient designs and smooth animations
+
+## 🎯 Key Features Showcase
+
+### Player Voting Interface
+![Player Cards](web/public/app-screenshot.png)
+*Interactive player cards with voting buttons, stats, and progress bars*
+
+### Leading Player Dashboard
+![Leading Player](web/public/app-screenshot.png)
+*Real-time leader tracking with comprehensive statistics display*
+
+### Wallet Integration
+![Wallet Connection](web/public/app-screenshot.png)
+*Seamless wallet connection with visual feedback and security indicators*
 
 ### Players Available
 
