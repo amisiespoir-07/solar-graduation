@@ -269,3 +269,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Anchor](https://www.anchor-lang.com/) for the smart contract framework
 - [Next.js](https://nextjs.org/) for the React framework
 - [NBA](https://www.nba.com/) for player data and inspiration# solar-graduation
+# solar-graduation
